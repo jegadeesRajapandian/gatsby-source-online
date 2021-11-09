@@ -1,0 +1,22 @@
+{
+  "name": "@moonraft/gatsby-source-online",
+  "version": "0.0.1",
+  "description": "Package for gatsby graphql",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@jegadees"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jegadeesRajapandian/gatsby-source-online.git"
+  },
+  "author": "Jegadees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jegadeesRajapandian/gatsby-source-online/issues"
+  },
+  "homepage": "https://github.com/jegadeesRajapandian/gatsby-source-online#readme"
+}
